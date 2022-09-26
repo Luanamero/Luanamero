@@ -1,4 +1,4 @@
-### Olá! Me chamo Luana de Méro
+### Oie!! Me chamo Luana de Méro
 
 - 💻 Sou estudante de Ciência da Computação
 - 📧 Contate-me no email: luanamero4@gmail.com
