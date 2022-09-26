@@ -1,6 +1,6 @@
 ### Olá! Me chamo Luana de Méro
 
-- 💻 Sou estudande de Ciência da Computação
+- 💻 Sou estudante de Ciência da Computação
 - 📧 Contate-me no email: luanamero4@gmail.com
 - 😊 Pronomes: ela/dela
 
