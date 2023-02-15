@@ -1,16 +1,11 @@
-### Oie!! Me chamo Luana de Méro
+Hello! My name is Luana de Méro Omena
 
-- 💻 Sou estudante de Ciência da Computação
-- 😊 Pronomes: ela/dela
-
-
-<div align="center">
-  <a href="https://github.com/Luanamero">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luanamero&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-</div>
+About me:
+  - I'm a Computer Engineering Undergraduate Student at the Federal University of Paraíba
+  - I am a Member of the Technology and Artificial Intelligence League (TAIL)
+  - I worked as an intern on the Recommendation Letter department at "Lopes&Sousa" Office, for immigrants seeking permanent visas in the United States.
 
 
-<div>
-<a href = "mailto:luanamero4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luana-de-m%C3%A9ro-omena-9b9382249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
+
+
