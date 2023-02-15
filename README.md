@@ -6,6 +6,7 @@ Hello! My name is Luana de Méro Omena
   - I worked as an intern on the Recommendation Letter department at "Lopes&Sousa" Office, for immigrants seeking permanent visas in the United States.
 
 Tools: Python, C, Matplotlib, Pandas, Git, Numpy
+
 Interests:  Computer Vision, NLP, Machine Learning and Researches.
 
 
