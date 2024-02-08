@@ -8,13 +8,14 @@ Computer Science Undergrad | AI and Web Development Enthusiast
 
 🔬 Researching and developing methods to generate realistic simulations of the breast anatomy (phantoms). 
 
-💻 Keen interest and experience in working on small projects in web development with React.
+💻 Keen interest and experience in working on small projects in web development with React and and Software Python projects.
 
 🌐 Open to projects and collaborations. Let's connect and create something impactful!
 
-Tools: Python, C, Matplotlib, Pandas, Git, Numpy, Java, React
+Tools: Python, React, Java, Pandas, Numpy, Matplotlib, Git
 
-Interests:  Computer Vision, NLP, Machine Learning, Software Developing and Researches.
+Interests:  Software Developing, Computer Vision, Machine Learning.
+
 
 
 
