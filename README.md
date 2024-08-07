@@ -1,10 +1,8 @@
-Hello! My name is Luana de Méro Omena
+### Hello! My name is Luana de Méro Omena 👋
 
-🍂 About me :
+I'm an undergraduate student in Computer Science at the Federal University of Paraíba in Brazil, currently exploring the realms of Software Development and Machine Learning.
 
-Computer Science Undergrad | AI and Web Development Enthusiast
-
-🎓 Studying at UFPB, I'm passionate about AI's applications. Actively contributing to TAIL for AI and data analysis growth.
+## About Me 👩🏻‍🎓:
 
 🔬 Researching and developing methods to generate realistic simulations of the breast anatomy (phantoms). 
 
@@ -13,7 +11,6 @@ Computer Science Undergrad | AI and Web Development Enthusiast
 🌐 Open to projects and collaborations. Let's connect and create something impactful!
 
 Tools: Python, React, Java, Pandas, Numpy, Matplotlib, Git
-
 Interests:  Software Developing, Computer Vision, Machine Learning.
 
 
