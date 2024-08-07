@@ -15,6 +15,11 @@ Email: luanamero4@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/luanamero/).
 
+---
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="icons/react/react-original.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
+</div>
 Tools: Python, React, Java, Pandas, Numpy, Matplotlib, Git.
 Interests:  Software Developing, Computer Vision, Machine Learning.
 
