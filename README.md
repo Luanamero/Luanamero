@@ -12,6 +12,7 @@ I'm an undergraduate student in Computer Science at the Federal University of Pa
 
 ### Let's connect and create something impactful!
 Email: luanamero4@gmail.com
+
 [Linkedin](https://www.linkedin.com/in/luanamero/).
 
 Tools: Python, React, Java, Pandas, Numpy, Matplotlib, Git
