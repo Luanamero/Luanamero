@@ -15,7 +15,7 @@ Email: luanamero4@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/luanamero/).
 
-Tools: Python, React, Java, Pandas, Numpy, Matplotlib, Git
+Tools: Python, React, Java, Pandas, Numpy, Matplotlib, Git.
 Interests:  Software Developing, Computer Vision, Machine Learning.
 
 
