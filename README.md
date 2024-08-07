@@ -17,7 +17,7 @@ Email: luanamero4@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="[icons/react/react-original.svg](https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg)" title="React" alt="React" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
 </div>
 Tools: Python, React, Java, Pandas, Numpy, Matplotlib, Git.
 Interests:  Software Developing, Computer Vision, Machine Learning.
