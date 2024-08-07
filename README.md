@@ -1,8 +1,8 @@
-## Hello! My name is Luana de Méro Omena 👋
+## Hi! I'm Luana de Méro Omena 👩🏻‍🎓
 
 I'm an undergraduate student in Computer Science at the Federal University of Paraíba in Brazil, currently exploring the realms of Software Development and Machine Learning.
 
-### About Me 👩🏻‍🎓:
+### About Me:
 
 🔬 Researching and developing methods to generate realistic simulations of the breast anatomy (phantoms). 
 
