@@ -11,6 +11,14 @@ I'm an undergraduate student in Computer Science at the Federal University of Pa
 - 🌐 Open to projects and collaborations.
 
 ### Let's connect and create something impactful!
+<div id="badges">
+  <a href="https://www.linkedin.com/in/luanamero/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="luanamero4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
 Email: luanamero4@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/luanamero/).
