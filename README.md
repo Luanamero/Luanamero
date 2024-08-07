@@ -4,11 +4,11 @@ I'm an undergraduate student in Computer Science at the Federal University of Pa
 
 ### About Me:
 
-🔬 Researching and developing methods to generate realistic simulations of the breast anatomy (phantoms). 
+- 🔬 Researching and developing methods to generate realistic simulations of the breast anatomy (phantoms). 
 
-💻 Keen interest and experience in working on small projects in web development with React and and Software Python projects.
+- 💻 Keen interest and experience in working on small projects in web development with React and and Software Python projects.
 
-🌐 Open to projects and collaborations.
+- 🌐 Open to projects and collaborations.
 
 ### Let's connect and create something impactful!
 Email: luanamero4@gmail.com
