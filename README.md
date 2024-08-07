@@ -11,8 +11,8 @@ I'm an undergraduate student in Computer Science at the Federal University of Pa
 🌐 Open to projects and collaborations.
 
 ### Let's connect and create something impactful!
-[Linkedin](https://www.linkedin.com/in/luanamero/).
 Email: luanamero4@gmail.com
+[Linkedin](https://www.linkedin.com/in/luanamero/).
 
 Tools: Python, React, Java, Pandas, Numpy, Matplotlib, Git
 Interests:  Software Developing, Computer Vision, Machine Learning.
